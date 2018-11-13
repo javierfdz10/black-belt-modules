@@ -7,6 +7,6 @@ Created on Tue Nov 13 14:55:57 2018
 """
 #%%
 
-import data.triangles
-import utils.functions
+from data import triangles 
+from utils import functions 
 
